@@ -1,2 +1,2 @@
-# simple_calculator
-Just a simple calculator in Ruby
+# A Simple Calculator
+Just a simple calculator in Ruby.
